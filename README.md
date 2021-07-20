@@ -2,19 +2,19 @@
 
 Algumas coisas sobre mim:
 
-- 🔭 Atualmente trabalhando como Freelancer, com Desenvolvimento de Aplicações usando as tecnologias baseadas em JavaScript.
+- 🔭 Desenvolvedor Backend no grupo Pdv365.
 
-- 🌱 Atualmente e sempre estudando.. Estudando no momento TypeScript e GraphQl.
+- 🌱 Atualmente e sempre estudando...
 
 - 👯 Procurando sempre novos desafios.
 
-- 🤔 Aqui você encontrada aplicações desenvolvidas com algumas das seguintes tecnologias:
+- 🤔 Estarei tentando alimentar o perfil com tecnologias que trabalho diariamente, então será possivel encontrar as seguintes tecnologias:
   - JavaScript/TypeScript
   - NodejS
   - ExpressJs
-  - AdonisJs
-  - ReactJs
-  - React-Native
+  - NestJs
+  - RabbitMq
+  - Grpc
   - GraphQl
   - Entre outras!
 - 😄 Caso encontre algo que possa melhorar e sentir vontade de colaborar, sinta se à vontade para enviar um PR!
